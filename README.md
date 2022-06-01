@@ -1,5 +1,5 @@
 # Chit-Chat
-Real-time Chat App socket based.
+Real-time Chat App using HTML, CSS, JavaScript, NodeJS & Socket.io 
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/105040357/171442790-59e92a7d-0e74-4db0-8a10-c6cbe3675a6f.png)
